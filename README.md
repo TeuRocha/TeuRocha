@@ -3,10 +3,10 @@
 Sou estudante de Ciência da Computação, focado em criar soluções que unem Visão Computacional, Desenvolvimento de Jogos e Experiência do Usuário (UX). 
 
 ## 🚀 Sobre mim
-* 🎓 Atualmente desenvolvendo um TCC focado em um **Sistema Inteligente de Calibração de Mira para Esportes**, explorando detecção de impacto, marcadores ArUco e Canny edge detection.
-* 💡 Tenho forte interesse em acessibilidade e metodologias de UX (HTA, CTT, GOMS).
+* 🎓 Desenvolvi um TCC focado em um **Sistema de Auxilio para Calibragem de Miras Ópticas**, explorando detecção de impacto, marcadores ArUco, UX.
+* 💡 Tenho forte interesse em visão computacional, acessibilidade, e metodologias de UX (HTA, CTT, GOMS).
 * 👾 Desenvolvedor nas horas vagas criando projetos na engine Unity.
-* 🔒 Estudioso de fundamentos de cibersegurança e modelagem de ameaças (STRIDE, DREAD).
+* 🔒 Estudioso de bancos de dados (SQLite, NoSQL).
 
 ## 💻 Tecnologias e Ferramentas
 
@@ -23,8 +23,9 @@ Sou estudante de Ciência da Computação, focado em criar soluções que unem V
 | Projeto | Descrição | Foco |
 | :--- | :--- | :--- |
 | **Calibration Tool** | Sistema inteligente de auxílio e calibração de mira. | Visão Computacional, Python, OpenCV, UX |
-| **Coffee Machine Assembly** | Sistema de máquina de café em Assembly. | EdSim51, Low level, Assembly |
+| **Coffee Machine** | Sistema de máquina de café em Assembly. | EdSim51, Low level, Assembly |
 | **Game Dev Projects** | Desenvolvimento de jogos 2D (plataforma e arcades clássicos como Space Invaders). | Unity, C# |
+| **Daltonism Test** | Teste de daltonismo para dispositivos móveis | Js, Mobile, React-Native |
 
 ## 📊 Estatísticas do GitHub
 
