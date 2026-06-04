@@ -22,8 +22,8 @@ Sou estudante de Ciência da Computação, focado em criar soluções que unem V
 
 | Projeto | Descrição | Foco |
 | :--- | :--- | :--- |
-| **Calibration Tool** | Sistema inteligente de auxílio e calibração de mira. | Visão Computacional, Python, OpenCV, UX |
-| **Coffee Machine** | Sistema de máquina de café em Assembly. | EdSim51, Low level, Assembly |
+| **Calibration Tool** | Sistema de auxílio para calibragem de miras ópticas. | Visão Computacional, Python, OpenCV, UX |
+| **Coffee Machine** | Sistema de máquina de café. | EdSim51, Low level, Assembly |
 | **Game Dev Projects** | Desenvolvimento de jogos 2D (plataforma e arcades clássicos como Space Invaders). | Unity, C# |
 | **Daltonism Test** | Teste de daltonismo para dispositivos móveis | Js, Mobile, React-Native |
 
