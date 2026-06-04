@@ -27,13 +27,6 @@ Sou estudante de Ciência da Computação, focado em criar soluções que unem V
 | **Game Dev Projects** | Desenvolvimento de jogos 2D (plataforma e arcades clássicos como Space Invaders). | Unity, C# |
 | **Daltonism Test** | Teste de daltonismo para dispositivos móveis | Js, Mobile, React-Native |
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeuRocha&show_icons=true&theme=radium&include_all_commits=true&count_private=true" alt="Estatísticas do Mateus" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeuRocha&theme=radium" alt="Dias de contribuição" />
-</p>
-
 ## 📫 Como me encontrar
 
 <p align="left">
