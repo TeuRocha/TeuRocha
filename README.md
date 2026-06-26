@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus Rocha! 👋
 
-Sou estudante de Ciência da Computação, focado em criar soluções que unem Visão Computacional, Desenvolvimento de Jogos e Experiência do Usuário (UX). 
+Sou formado em Ciência da Computação, com foco nas áres de Visão Computacional, Experiência do Usuário (UX), Análise de Dados e Desenvolvimento de Jogos. 
 
 ## 🚀 Sobre mim
 * 🎓 Desenvolvi um TCC focado em um **Sistema de Auxilio para Calibragem de Miras Ópticas**, explorando detecção de impacto, marcadores ArUco, UX.
