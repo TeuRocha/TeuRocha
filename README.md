@@ -1,11 +1,11 @@
-# Olá, eu sou o Mateus Rocha! 👋
+# Olá, meu nome é Mateus Rocha! 👋
 
-Sou formado em Ciência da Computação, com foco nas áres de Visão Computacional, Experiência do Usuário (UX), Análise de Dados e Desenvolvimento de Jogos. 
+Sou formado em Ciência da Computação, com foco nas áres de Visão Computacional, Experiência do Usuário (UX), e Desenvolvimento de Jogos. 
 
 ## 🚀 Sobre mim
 * 🎓 Desenvolvi um TCC focado em um **Sistema de Auxilio para Calibragem de Miras Ópticas**, explorando detecção de impacto, marcadores ArUco, UX.
 * 💡 Tenho forte interesse em visão computacional, acessibilidade, e metodologias de UX (HTA, CTT, GOMS).
-* 👾 Desenvolvedor nas horas vagas criando projetos na engine Unity.
+* 👾 Desenvolvendo jogos nas horas vagas utilizando Unity.
 * 🔒 Estudioso de bancos de dados (SQLite, NoSQL).
 
 ## 💻 Tecnologias e Ferramentas
