@@ -4,7 +4,7 @@ Sou formado em Ciência da Computação, com foco nas áres de Visão Computacio
 
 ## 🚀 Sobre mim
 * 🎓 Desenvolvi um TCC focado em um **Sistema de Auxilio para Calibragem de Miras Ópticas**, explorando detecção de impacto, marcadores ArUco, UX.
-* 💡 Tenho forte interesse em visão computacional, acessibilidade, e metodologias de UX (HTA, CTT, GOMS).
+* 💡 Tenho forte interesse em visão computacional, engenharia de software, e metodologias de UX (HTA, CTT, GOMS).
 * 👾 Desenvolvendo jogos nas horas vagas utilizando Unity.
 * 🔒 Estudioso de bancos de dados (SQLite, NoSQL).
 
